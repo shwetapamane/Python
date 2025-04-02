@@ -18,8 +18,6 @@ Functions and modules
 
 Data structures (lists, tuples, dictionaries)
 
-Object-Oriented Programming (OOP)
-
 File handling
 
 More advanced Python concepts
