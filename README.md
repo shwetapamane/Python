@@ -9,3 +9,17 @@ Variables and data types
 Basic operations
 
 More Python concepts coming soon...
+
+## Upcoming Topics
+
+Loops and conditionals
+
+Functions and modules
+
+Data structures (lists, tuples, dictionaries)
+
+Object-Oriented Programming (OOP)
+
+File handling
+
+More advanced Python concepts
