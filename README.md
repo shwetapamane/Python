@@ -21,3 +21,9 @@ Data structures (lists, tuples, dictionaries)
 File handling
 
 More advanced Python concepts
+
+Contributions
+
+If you'd like to contribute, feel free to fork the repository and submit a pull request!
+
+Stay tuned for updates! 🚀
