@@ -1,8 +1,8 @@
 # Jupyter Notebook for Python Practice
 
-This repository contains a Jupyter Notebook with solved questions based on variables. Going forward, I will be adding all code related to Python in this notebook.
+This repository contains a Jupyter Notebook with solved questions based on variables. Going forward, I will be adding all code related to Python in this Repository.
 
-Contents:
+## Contents:
 
 Variables and data types
 
